@@ -28,8 +28,7 @@
         <a class="item"href="#">Стоимость</a>
         </nav>
      ```**
-     #### 
-     **Note: file - index.html**
+     #### **Note: file - index.html**
 
      Where you can see links to "About our company", "Our services", "Reviews", "Prices".
 
