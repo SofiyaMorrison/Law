@@ -4,6 +4,7 @@
 <!-- ABOUT THE PROJECT -->
  ## About The Project
  This project is general website template created for Lawer's office that provides their clients information about:
+ 
  -Services
  -Prices
  -Experiences
