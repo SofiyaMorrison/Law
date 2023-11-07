@@ -43,7 +43,7 @@
         <a class="item"href="#">Стоимость</a>
         </nav>  
     ```**
-   #### **Note: file - index.html**
+   ##### **Note: file - index.html**
 
      Where you can see links to "About our company", "Our services", "Reviews", "Prices".
 
@@ -84,7 +84,7 @@
       <li class="legal"> Земельное право</li>
       </ul>
       ```**
-   #### **Note: file - index.html**
+   ##### **Note: file - index.html**
 
     Then you have links about prices:
    ####
@@ -105,7 +105,7 @@
         </ul>>
       ```**
       
-   #### **Note: file - index.html**
+   ##### **Note: file - index.html**
 
      And the last section was created to collecte potential clients informatione for follow up phone call:
      
@@ -162,7 +162,7 @@
         /div>
         ```**
         
-   #### **Note: file - index.html**
+   ##### **Note: file - index.html**
 
    ### Built With
 
