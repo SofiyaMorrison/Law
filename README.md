@@ -14,9 +14,8 @@
  ### How to use the App
 
  After you opened a Law Website via [http://localhost:3000](http://localhost:3000), on right top corner you can see:
-
-    ####
-   **```
+      ####
+      **```
         <nav class="nav">
         <a class="item first"href="#">SPECTER & ASSOCIATES</a>
         <a class="item"href="#">О нашей фирме</a>
@@ -25,8 +24,41 @@
         <a class="item"href="#">Стоимость</a>
         </nav>
      ```**
-     #### **Note: file - index.html**
+     #### 
+     **Note: file - index.html**
 
      Where you can see links to "About our company", "Our services", "Reviews", "Prices".
 
- 
+     Then further down there are links about different types of Law:
+     -Civil Law
+     -Commercial Law
+     -Arbitration Process
+     -Business Law
+     -Land Law 
+       ####
+       **```
+      <ul class="branch">
+      <li class="legal">Гражданское право </li>
+      <li class="legal"> Коммерческое право </li>
+      <li class="legal">Арбитражный процесc</li>
+      <li class="legal">Предпринимательское право</li>
+      <li class="legal"> Земельное право</li>
+      </ul>
+       ```**
+     #### 
+     **Note: file - index.html**
+
+    Then you have links about prices:
+   ####
+       **```
+        <ul class="money">
+        <li class="price">1000$ за час работы</li>
+        <li class="price">1800$ за 2 часа работы</li>
+        <li class="price">2800$ за 3 часа работы</li>
+        </ul>>
+      ```**
+    #### 
+     **Note: file - index.html**
+
+     And the last section was created to collecte potential clients informatione for follow up phone call:
+     
