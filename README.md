@@ -61,4 +61,28 @@
      **Note: file - index.html**
 
      And the last section was created to collecte potential clients informatione for follow up phone call:
-     
+     ####
+        **```
+      <div  class="label">
+      <label>Имя</label>
+      <input type="text">
+      </div>
+       <div  class="label">
+       <label>Фамилия</label>
+       <input type="text">
+       </div>
+       <div  class="label">
+       <label>Ваш номер телефона</label>
+       <input type="number">
+       </div>
+       <br>
+        <div class="btn">
+        <button class="cta">Отправить</button>
+        /div>
+        ```**
+    #### 
+           **Note: file - index.html**
+
+           ### Built With
+
+          * [React](https://react.dev/)
