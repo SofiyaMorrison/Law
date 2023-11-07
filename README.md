@@ -45,26 +45,46 @@
     ```**
    #### **Note: file - index.html**
 
-     Where you can see links to **"About our company"** , "Our services", "Reviews", "Prices".
+     Where you can see links to "About our company", "Our services", "Reviews", "Prices".
 
      Then further down there are links about different types of Law:
+     
      -Civil Law
+     
      -Commercial Law
+     
      -Arbitration Process
+     
      -Business Law
+     
      -Land Law 
-       ####
-       **```
+     
+   ####
+   **```
       <ul class="branch">
+      ```**
+
+   **```
       <li class="legal">Гражданское право </li>
+    ```**
+
+   **```
       <li class="legal"> Коммерческое право </li>
+      ```**
+
+   **```
       <li class="legal">Арбитражный процесc</li>
+      ```**
+
+   **```
       <li class="legal">Предпринимательское право</li>
+      ```**
+
+   **```
       <li class="legal"> Земельное право</li>
       </ul>
-       ```**
-     #### 
-     **Note: file - index.html**
+      ```**
+   #### **Note: file - index.html**
 
     Then you have links about prices:
    ####
