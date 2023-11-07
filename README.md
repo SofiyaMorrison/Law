@@ -45,7 +45,7 @@
     ```**
    #### **Note: file - index.html**
 
-     Where you can see links to "About our company", "Our services", "Reviews", "Prices".
+     Where you can see links to **"About our company"** , "Our services", "Reviews", "Prices".
 
      Then further down there are links about different types of Law:
      -Civil Law
