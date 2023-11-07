@@ -104,7 +104,7 @@
         <li class="price">2800$ за 3 часа работы</li>
         </ul>>
       ```**
-    ##### **Note: file - index.html**
+    #### **Note: file - index.html**
 
      And the last section was created to collecte potential clients informatione for follow up phone call:
      ####
