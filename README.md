@@ -17,7 +17,7 @@
 
  ### How to use the App
 
- After you opened a Law Website via [http://localhost:3000](http://localhost:3000), on right top corner you can see:
+ After you opened Law Website using Copy Path method, on right top corner you can see:
    ####
    **```
         <nav class="nav">
